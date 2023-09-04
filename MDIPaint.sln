@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDIPaint", "MDIPaint\MDIPaint.csproj", "{0A853BEA-8A18-45C8-9715-AAD3B7A7FFA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginInterface", "PluginInterface\PluginInterface.csproj", "{1DA03D98-2887-41B6-9D2C-1E2FC4B0ADCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A853BEA-8A18-45C8-9715-AAD3B7A7FFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A853BEA-8A18-45C8-9715-AAD3B7A7FFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A853BEA-8A18-45C8-9715-AAD3B7A7FFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A853BEA-8A18-45C8-9715-AAD3B7A7FFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DA03D98-2887-41B6-9D2C-1E2FC4B0ADCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA03D98-2887-41B6-9D2C-1E2FC4B0ADCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA03D98-2887-41B6-9D2C-1E2FC4B0ADCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA03D98-2887-41B6-9D2C-1E2FC4B0ADCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E636CB67-5994-49A2-B6E6-3A490C7567F2}
+	EndGlobalSection
+EndGlobal
